@@ -1,0 +1,54 @@
+.ultra{
+    display:flex;
+    gap:40px;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding:40px;
+}
+
+.main{
+    height:auto;
+    width:320px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;       
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+
+}
+
+.main img{
+
+    padding: 5px;
+    height: 250px;
+    width: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.main p{
+    padding: 5px;
+    margin:5px 0;
+    text-align: center;
+    font-size: 16px;
+    
+}
+
+.card-text {
+  margin-top: 12px;
+  text-align: center;
+}
+
+.card-title {
+  font-size: 18px;
+  font-weight: 600;
+  color: #222;
+  margin: 0;
+}
+
+.card-state {
+  margin: 4px 0 0 0;
+  font-size: 14px;
+  color: #666;
+  letter-spacing: 0.5px;
+}

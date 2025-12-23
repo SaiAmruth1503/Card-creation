@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "/Images/charminar.jpg",
+    "title": "Charminar",
+    "state": "Telangana"
+  },
+  {
+    "id": 2,
+    "image": "/Images/delhi-redfort.jpg",
+    "title": "Red Fort",
+    "state": "Delhi"
+  },
+  {
+    "id": 3,
+    "image": "/Images/gujarat-rannofkutch.jpg",
+    "title": "Rann of Kutch",
+    "state": "Gujarat"
+  },
+  {
+    "id": 4,
+    "image": "/Images/karnataka-mysorepalace.jpg",
+    "title": "Mysore Palace",
+    "state": "Karnataka"
+  },
+  {
+    "id": 5,
+    "image": "/Images/kerala-munnar.jpg",
+    "title": "Munnar",
+    "state": "Kerala"
+  },
+  {
+    "id": 6,
+    "image": "/Images/maharashtra-gatewayofindia.jpg",
+    "title": "Gateway of India",
+    "state": "Maharashtra"
+  },
+  {
+    "id": 7,
+    "image": "/Images/tamilnadu-ooty.jpg",
+    "title": "Ooty",
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": 8,
+    "image": "/Images/vizag-rushikondabeach.jpg",
+    "title": "Rushikonda Beach",
+    "state": "Andhra Pradesh"
+  }
+]
