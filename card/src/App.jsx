@@ -1,4 +1,4 @@
-import Cardcreation from "./components/cardcreation"
+import Cardcreation from "./components/Cardcreation"
 
 function App() {
 
